@@ -1,1 +1,60 @@
 /*  your css code here. If applicable */
+ .circle {
+            width: 300px;
+            height: 300px;
+            background-color: #ff0000;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .circle-inner1 {
+            width: 250px;
+            height: 250px;
+            background-color: #ffa500;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .circle-inner2 {
+            width: 200px;
+            height: 200px;
+            background-color: #ffff00;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .circle-inner3 {
+            width: 150px;
+            height: 150px;
+            background-color: #008000;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .circle-inner4 {
+            width: 100px;
+            height: 100px;
+            background-color: #0000ff;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .circle-inner5 {
+            width: 50px;
+            height: 50px;
+            background-color: #800080;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
